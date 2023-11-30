@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @A-Hammock
-- 👀 I’m interested in data analytics and programming
-- 🌱 I’m currently learning Information Systems and Data Analytics 
+- 👋 Salutations, 
+- 👀 I’m interested in programming and creating something from nothing
+- 🌱 I’m currently learning Java
+- Brushing up on my HTML, CSS and JavaScript.
 - 💞️ I’m not looking to collaborate as of now, here to learn.
 - 📫 How to reach me is DMs
 
