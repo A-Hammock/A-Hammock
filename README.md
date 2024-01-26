@@ -1,4 +1,4 @@
-- 👋 Salutations, 
+- 👋 Hi, I'm Ali 
 - 👀 I’m interested in programming and creating something from nothing
 - 🌱 I’m currently learning Java
 - Brushing up on my HTML, CSS and JavaScript.
